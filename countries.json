@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Philippines",
+    "code": "philippines",
+    "embassy": "https://ph.usembassy.gov/"
+  },
+  {
+    "name": "India",
+    "code": "india",
+    "embassy": "https://in.usembassy.gov/"
+  },
+  {
+    "name": "Mexico",
+    "code": "mexico",
+    "embassy": "https://mx.usembassy.gov/"
+  },
+  {
+    "name": "China",
+    "code": "china",
+    "embassy": "https://china.usembassy-china.org.cn/"
+  }
+]
