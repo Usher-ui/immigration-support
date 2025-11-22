@@ -1,0 +1,8 @@
+/project
+ │── index.html
+ │── usa.html
+ │── country.html
+ │── other.html
+ │── style.css
+ │── script.js
+ └── countries.json
